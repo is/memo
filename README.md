@@ -1,4 +1,4 @@
 memo
 ====
 
-memos &amp; notes.
+memos & notes.
